@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/pedrohnluiz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnluiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnluiz&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohnluiz&theme=dracula&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohnluiz&theme=dracula&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
     
@@ -15,9 +15,3 @@
 </div>
 
   ##
-
-<div>
-  
-  ![Snake animation](https://github.com/pedrohnluiz/pedrohnluiz/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
